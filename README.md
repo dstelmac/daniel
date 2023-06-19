@@ -2,4 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dstelmac&color=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstelmac&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstelmac&show_icons=true&theme=red)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dstelmac&layout=compact&theme=red)](https://github.com/anuraghazra/github-readme-stats)
+
