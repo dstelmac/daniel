@@ -1,5 +1,6 @@
 <h1 align="center">WELCOME TO MY GITHUB</h1>
 <h3 align="center">>Hi, I'm Daniel</h3>
+
 - I’m currently a student at 42 Lisbon.
 
 - I’m currently studying C, C++.
